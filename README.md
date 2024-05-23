@@ -4,7 +4,6 @@
 
 EmployeeHub is a comprehensive employee management system designed to streamline the process of managing employee information within an organization. It leverages a robust backend built with Spring Boot and RESTful APIs, a dynamic frontend created using React and Vite, and a MySQL database for persistent data storage. The system provides a user-friendly interface for adding, retrieving, updating, and deleting employee details, ensuring efficient and error-free management of employee records.
 
-![image](https://github.com/dhrupad17/Employee-Management-System-Using-SpringBoot-and-React/assets/91726340/712f9ccf-f271-453d-8cb1-67f9fea11df2)
 
 ## Project Directory Structure:
 
