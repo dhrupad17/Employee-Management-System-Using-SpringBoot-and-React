@@ -58,7 +58,7 @@ EmployeeHub is a comprehensive employee management system designed to streamline
 <table>
     <tr>
 	<td> ADD EMPLOYEE MODULE </td>
-        <td><img src="https://github.com/dhrupad17/Employee-Management-System-Using-SpringBoot-and-React/assets/91726340/160e2044-f315-4c11-be50-49d9fad1549"></td>
+        <td><img src="https://github.com/dhrupad17/Employee-Management-System-Using-SpringBoot-and-React/assets/91726340/11acd58d-fe33-4260-b937-c27ef9c21648"></td>
     </tr>
   <tr>
 	<td> GET EMPLOYEE MODULE </td>
